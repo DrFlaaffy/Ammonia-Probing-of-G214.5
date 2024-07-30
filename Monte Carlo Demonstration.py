@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from jupyterthemes import jtplot
+# from jupyterthemes import jtplot
 import astropy.io.fits as pf
 from scipy.optimize import curve_fit
 
